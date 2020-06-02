@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\HadithAPI\Hadith.Interface\bin\Debug\netstandard2.0\Hadith.Interface.deps.json
+C:\Users\user\source\repos\HadithAPI\Hadith.Interface\bin\Debug\netstandard2.0\Hadith.Interface.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Interface\bin\Debug\netstandard2.0\Hadith.Interface.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Interface\obj\Debug\netstandard2.0\Hadith.Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Interface\obj\Debug\netstandard2.0\Hadith.Interface.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Interface\obj\Debug\netstandard2.0\Hadith.Interface.AssemblyInfo.cs
+C:\Users\user\source\repos\HadithAPI\Hadith.Interface\obj\Debug\netstandard2.0\Hadith.Interface.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Interface\obj\Debug\netstandard2.0\Hadith.Interface.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\obj\Debug\netstandard2.0\Hadith.Domain.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\obj\Debug\netstandard2.0\Hadith.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\obj\Debug\netstandard2.0\Hadith.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\obj\Debug\netstandard2.0\Hadith.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\bin\Debug\netstandard2.0\Hadith.Domain.deps.json
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\bin\Debug\netstandard2.0\Hadith.Domain.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\bin\Debug\netstandard2.0\Hadith.Domain.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\obj\Debug\netstandard2.0\Hadith.Domain.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain\obj\Debug\netstandard2.0\Hadith.Domain.pdb

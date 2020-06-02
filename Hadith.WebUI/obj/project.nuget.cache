@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pjluYrAdJvz6i8/a4cHh4NYkEXe+vH+UfwrqSSfVIBHpP5+HgyA54J1Bjp09Nt9xSebTCdNbM4+0urvEX8NWkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.WebUI\\Hadith.WebUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

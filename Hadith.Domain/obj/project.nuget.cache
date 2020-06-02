@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBhhydgyjT09i083uwh5Pj+mNkJhz8av8Qh/irwS7e2Q/ZXKslw3H1MMkAiXBIOVQ1tf6vpl1k+odVyX6eJbTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

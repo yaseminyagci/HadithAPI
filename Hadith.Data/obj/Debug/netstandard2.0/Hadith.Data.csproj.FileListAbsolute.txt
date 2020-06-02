@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\obj\Debug\netstandard2.0\Hadith.Data.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\obj\Debug\netstandard2.0\Hadith.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\obj\Debug\netstandard2.0\Hadith.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\obj\Debug\netstandard2.0\Hadith.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Data.deps.json
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Data.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Core.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Domain.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Domain.Entity.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Core.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Domain.Entity.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Domain.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\obj\Debug\netstandard2.0\Hadith.Data.csproj.CopyComplete
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\bin\Debug\netstandard2.0\Hadith.Data.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\obj\Debug\netstandard2.0\Hadith.Data.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Data\obj\Debug\netstandard2.0\Hadith.Data.pdb

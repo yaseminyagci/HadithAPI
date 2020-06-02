@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\obj\Debug\netstandard2.0\Hadith.Domain.VMmodel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\obj\Debug\netstandard2.0\Hadith.Domain.VMmodel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\obj\Debug\netstandard2.0\Hadith.Domain.VMmodel.AssemblyInfo.cs
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\bin\Debug\netstandard2.0\Hadith.Domain.VMmodel.deps.json
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\bin\Debug\netstandard2.0\Hadith.Domain.VMmodel.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\bin\Debug\netstandard2.0\Hadith.Domain.VMmodel.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\bin\Debug\netstandard2.0\Hadith.Core.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\bin\Debug\netstandard2.0\Hadith.Domain.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\bin\Debug\netstandard2.0\Hadith.Core.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\bin\Debug\netstandard2.0\Hadith.Domain.pdb
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\obj\Debug\netstandard2.0\Hadith.Domain.VMmodel.csproj.CopyComplete
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\obj\Debug\netstandard2.0\Hadith.Domain.VMmodel.dll
+C:\Users\user\source\repos\HadithAPI\Hadith.Domain.VMmodel\obj\Debug\netstandard2.0\Hadith.Domain.VMmodel.pdb

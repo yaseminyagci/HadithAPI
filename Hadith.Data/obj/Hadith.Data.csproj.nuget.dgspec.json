@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj": {}
+    "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj": {
+    "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj",
         "projectName": "Hadith.Core",
-        "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Core\\obj\\",
+        "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj",
+        "packagesPath": "C:\\Users\\Yasemin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yasemin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,21 +63,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj": {
+    "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj",
         "projectName": "Hadith.Data",
-        "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Data\\obj\\",
+        "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj",
+        "packagesPath": "C:\\Users\\Yasemin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yasemin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,11 +90,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj"
+              "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj": {
+                "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj"
+              "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj"
               }
             }
           }
@@ -133,21 +133,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj": {
+    "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj",
         "projectName": "Hadith.Domain.Entity",
-        "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain.Entity\\obj\\",
+        "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\Yasemin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yasemin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,8 +160,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj"
+              "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj": {
+                "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj"
               }
             }
           }
@@ -192,21 +192,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj": {
+    "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj",
         "projectName": "Hadith.Domain",
-        "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain\\Hadith.Domain.csproj",
+        "packagesPath": "C:\\Users\\Yasemin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yasemin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -251,7 +251,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

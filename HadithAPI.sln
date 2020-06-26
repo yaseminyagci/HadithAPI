@@ -9,17 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadith.Core", "Hadith.Core\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadith.Data", "Hadith.Data\Hadith.Data.csproj", "{519E7EAC-1DC6-4492-862A-265066D37587}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hadith.Domain", "Hadith.Domain\Hadith.Domain.csproj", "{AF112D80-C184-47AF-9A2C-0469015BFB07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadith.Domain", "Hadith.Domain\Hadith.Domain.csproj", "{AF112D80-C184-47AF-9A2C-0469015BFB07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hadith.Domain.Entity", "Hadith.Domain.Entity\Hadith.Domain.Entity.csproj", "{42A375D3-69DE-4E76-84D9-F2F34CE7049B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadith.Domain.Entity", "Hadith.Domain.Entity\Hadith.Domain.Entity.csproj", "{42A375D3-69DE-4E76-84D9-F2F34CE7049B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hadith.Domain.VMmodel", "Hadith.Domain.VMmodel\Hadith.Domain.VMmodel.csproj", "{88E8BD37-A5C4-4449-A879-36A88090477A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadith.Domain.VMmodel", "Hadith.Domain.VMmodel\Hadith.Domain.VMmodel.csproj", "{88E8BD37-A5C4-4449-A879-36A88090477A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hadith.Interface", "Hadith.Interface\Hadith.Interface.csproj", "{1054965E-7AC0-4411-81D4-DDDD771B58CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadith.Interface", "Hadith.Interface\Hadith.Interface.csproj", "{1054965E-7AC0-4411-81D4-DDDD771B58CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hadith.Service", "Hadith.Service\Hadith.Service.csproj", "{EC85330A-941C-471A-9BF1-9CD36DCB7C79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadith.Service", "Hadith.Service\Hadith.Service.csproj", "{EC85330A-941C-471A-9BF1-9CD36DCB7C79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hadith.WebUI", "Hadith.WebUI\Hadith.WebUI.csproj", "{213B4602-8F20-4373-B10B-9118126EA347}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hadith.WebUI", "Hadith.WebUI\Hadith.WebUI.csproj", "{213B4602-8F20-4373-B10B-9118126EA347}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1485,19 +1485,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Yasemin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj",
       "projectName": "Hadith.Data",
-      "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Data\\obj\\",
+      "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Data\\Hadith.Data.csproj",
+      "packagesPath": "C:\\Users\\Yasemin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yasemin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1510,11 +1510,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj"
+            "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj": {
+              "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Core\\Hadith.Core.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj"
+            "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\Yasemin\\Documents\\GitHub\\HadithAPI\\Hadith.Domain.Entity\\Hadith.Domain.Entity.csproj"
             }
           }
         }
@@ -1553,7 +1553,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
